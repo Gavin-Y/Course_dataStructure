@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/CityList/city.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/CityList/test.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/HorseChess/HorseChess.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/util/HashMap/test.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/util/Huffman/HuffmanTree.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/util/Tree/BinaryTree/BinaryNode.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/util/Tree/BinaryTree/BinaryTree.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/util/Tree/BinaryTree/BinaryTrees.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/util/Tree/BinaryTree/CompleteBinaryTree.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/util/Tree/BinaryTree/test.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
